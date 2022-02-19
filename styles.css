@@ -1,0 +1,38 @@
+html{
+    background-image: url("./bg.png");
+}
+.title{
+    text-align: center;
+    font-size: 90px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 5%;
+}
+.game{
+    display: block;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: greenyellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
